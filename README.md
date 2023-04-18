@@ -1,0 +1,2 @@
+# Luossu
+make friends
